@@ -5,4 +5,4 @@ Fixing some known issues.
 
 Fixed the risk of API key exposure.
 
-Setting up an autocomplete system.
+Automate the setup of certain systems.
