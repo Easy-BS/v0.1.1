@@ -34,7 +34,7 @@ This project investigates how Large Language Models (LLMs) and AI-agent systems 
 
 Compared to **v0.0.1**, this version introduces:
 
-• Automated configuration of underfloor radiant heating systems  
+• Automated configuration of Radiant Floor Heating (RFH) systems  
 • Natural-language-driven calibration of building energy models  
 • Enhanced representation of dynamic indoor heat gains  
 • Improved robustness and automation of simulation workflows  
