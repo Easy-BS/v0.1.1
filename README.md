@@ -22,7 +22,7 @@ This project investigates how Large Language Models (LLMs) and AI-agent systems 
 ## 🚀 Key Features
 
 ✅ Natural-language-driven building model generation  
-✅ Modular LLM-based multi-agent simulation framework  
+✅ Modular LLM-based AI-agent simulation framework  
 ✅ Integration with the EnergyPlus simulation engine  
 ✅ Automated error detection and workflow validation  
 ✅ Designed for early-stage design and non-expert users  
@@ -42,7 +42,7 @@ Compared to **v0.0.1**, this version introduces:
 ## 🏗 System Architecture
 
 
-The Easy-BS framework adopts a modular multi-agent architecture, in which specialized AI agents collaboratively construct, configure, simulate, and analyze building energy models through structured reasoning and tool execution.
+The Easy-BS framework adopts a modular AI-agent architecture, in which specialized AI agents collaboratively construct, configure, simulate, and analyze building energy models through structured reasoning and tool execution.
 
 <p align="center">
   <img src="docs/architecture.png" width="750">
@@ -63,7 +63,7 @@ The Easy-BS framework adopts a modular multi-agent architecture, in which specia
 
 
 - Standard Q&A sessions;
-- Multi-area architectural geometric modeling;
+- Multi-Zone building geometric modeling;
 - Installation of underfloor heating systems;
 - Building energy consumption calibration.
 
