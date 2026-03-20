@@ -7,7 +7,7 @@ AI-Agent–Driven Easy Building Simulation Framework
 ## 🔔 Overview
 ============================================================
 
-**Easy-BS (Easy Building Simulation)** is an AI-agent–driven building performance simulation framework that enables non-expert users to generate, configure, and simulate building energy models using natural language.
+**Easy-BS (Easy-Building-Simulation)** is an AI-agent–driven building performance simulation framework that enables non-expert users to generate, configure, and simulate building energy models using natural language.
 
 This project investigates how Large Language Models (LLMs) and AI-agent systems can automate traditionally expert-driven building simulation workflows, including:
 
