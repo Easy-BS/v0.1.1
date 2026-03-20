@@ -38,9 +38,9 @@ Compared to **v0.0.1**, this version introduces:
 • Enhanced representation of dynamic indoor heat gains  
 • Improved robustness and automation of simulation workflows  
 
-============================================================
+
 ## 🏗 System Architecture
-============================================================
+
 
 The Easy-BS framework adopts a modular multi-agent architecture, in which specialized AI agents collaboratively construct, configure, simulate, and analyze building energy models through structured reasoning and tool execution.
 
@@ -48,9 +48,9 @@ The Easy-BS framework adopts a modular multi-agent architecture, in which specia
   <img src="docs/architecture.png" width="750">
 </p>
 
-============================================================
+
 ## 📁 Project Structure
-============================================================
+
 
 | Folder      | Description                               |
 |-------------|-------------------------------------------|
@@ -58,38 +58,35 @@ The Easy-BS framework adopts a modular multi-agent architecture, in which specia
 | `examples/` | Sample building simulation cases          |
 | `docs/`     | Architecture diagrams and figures         |
 
-============================================================
+
 ## 📊 Demonstration
-============================================================
+
 
 - Standard Q&A sessions;
 - Multi-area architectural geometric modeling;
 - Installation of underfloor heating systems;
 - Building energy consumption calibration.
 
-============================================================
+
 ## ⚠️ Project Status
-============================================================
+
 
 This project is under active academic development. Interfaces, APIs, and workflows may evolve as the research progresses.
 
-============================================================
+
 ## 📄 Related Paper
-============================================================
+
 
 (TBD)
 
-============================================================
+
 ## 📚 Citation
-============================================================
 
-- Frequently Asked Questions;
-- Multi-zone architectural geometric modeling;
-- Adding underfloor radiant heating systems;
-- Building energy consumption calibration.
 
-============================================================
+(TBD)
+
+
 ## 📜 License
-============================================================
+
 
 MIT License
