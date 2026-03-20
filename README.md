@@ -49,6 +49,8 @@ The Easy-BS framework adopts a modular AI-agent architecture, in which specializ
   <img src="docs/Fig1.svg" width="400">
 </p>
 
+AI-Agent-assisted building energy consumption calibration:
+
 <p align="center">
   <img src="docs/Fig6.svg" width="700">
 </p>
