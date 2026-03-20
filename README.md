@@ -40,14 +40,12 @@ Compared to **v0.0.1**, this version introduces:
 • Improved robustness and automation of simulation workflows  
 
 
-## 🏗 System Architecture
+## 🏗 Automatic Calibration Framework
 
 
 The Easy-BS framework adopts a modular AI-agent architecture, in which specialized AI agents collaboratively construct, configure, simulate, and analyze building energy models through structured reasoning and tool execution.
 
-<p align="center">
-  <img src="docs/Fig6.svg" width="700">
-</p>
+
 
 
 ## 📁 Project Structure
