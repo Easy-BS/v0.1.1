@@ -12,7 +12,8 @@ AI-Agent–Driven Easy Building Simulation Framework
 This project explores how Large Language Models (LLMs) and AI-agent systems can automate traditionally expert-driven building simulation workflows, including:
 
 • Geometry creation  
-• Simulation setup  
+• Simulation setup
+• Automatic retrieval of weather data covering 180 countries and regions.
 • Certain HVAC system configuration  
 • Result interpretation and analysis  
 • Include complex indoor dynamic heat gains (building occupants, temperature setpoints, infiltration, equipment, lighting, etc.)
