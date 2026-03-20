@@ -55,7 +55,7 @@ The Easy-BS framework adopts a modular AI-agent architecture, in which specializ
 |-------------|-------------------------------------------|
 | `easybs/`   | Core agent framework                      |
 | `examples/` | Sample building simulation cases          |
-| `docs/`     | Architecture diagrams and figures         |
+| `docs/`     | Diagrams and figures                      |
 
 
 ## 📊 Demonstration
