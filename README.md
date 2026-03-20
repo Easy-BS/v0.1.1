@@ -63,7 +63,10 @@ The Easy-BS framework adopts a modular multi-agent architecture, in which specia
 ## 📊 Demonstration
 ============================================================
 
-(TBD)
+- Standard Q&A sessions;
+- Multi-area architectural geometric modeling;
+- Installation of underfloor heating systems;
+- Building energy consumption calibration.
 
 ============================================================
 ## ⚠️ Project Status
