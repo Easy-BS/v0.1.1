@@ -46,7 +46,7 @@ Compared to **v0.0.1**, this version introduces:
 The Easy-BS framework adopts a modular AI-agent architecture, in which specialized AI agents collaboratively construct, configure, simulate, and analyze building energy models through structured reasoning and tool execution.
 
 <p align="center">
-  <img src="docs/architecture.png" width="750">
+  <img src="docs/Fig6.png" width="700">
 </p>
 
 
