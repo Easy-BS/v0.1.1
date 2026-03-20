@@ -13,6 +13,7 @@ This project explores how Large Language Models (LLMs) and AI-agent systems can 
 
 • Geometry creation  
 • Simulation setup  
+• Include complex indoor dynamic heat gains (building occupants, temperature setpoints, infiltration, equipment, lighting, etc.)
 • Certain HVAC system configuration  
 • Result interpretation and analysis  
 
