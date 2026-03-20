@@ -13,8 +13,8 @@ This project investigates how Large Language Models (LLMs) and AI-agent systems 
 
 • Geometry generation  
 • Simulation setup  
-• Automatic retrieval of weather data across 180+ regions  
-• HVAC system configuration  
+• Automatic retrieval of weather data across 180+ countries/regions  
+• Configuration of certain HVAC system   
 • Modeling of dynamic indoor heat gains (occupants, temperature setpoints, infiltration, equipment, and lighting)  
 • Result interpretation and analysis  
 
