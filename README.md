@@ -68,10 +68,16 @@ AI-Agent-assisted building energy consumption calibration:
 ## 📊 Demonstration
 
 
-Live demo of the web version:
+Live demo of the web version.
 
+Start:
 <p align="center">
   <img src="docs/demo.gif" width="700">
+</p>
+
+Final:
+<p align="center">
+  <img src="docs/demo2.gif" width="700">
 </p>
 
 ## ⚠️ Project Status
