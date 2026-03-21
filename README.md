@@ -1,7 +1,6 @@
 # Easy-BS v0.1.1
 AI-Agent–Driven Easy Building Simulation Framework  
 
-**Author:** Xiguan Liang  (✉lxg6[@]g.skku.edu)
 
 
 ## 🔔 Overview
@@ -91,7 +90,7 @@ This project is under active academic development. Interfaces, APIs, and workflo
 
 
 (TBD)
-
+**Author:** Xiguan Liang  (✉lxg6[@]g.skku.edu)
 
 ## 📜 License
 
