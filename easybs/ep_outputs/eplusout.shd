@@ -1,0 +1,574 @@
+Shadowing Combinations
+..Solar Distribution=FullInteriorAndExterior
+..In the following, only the first 10 reference surfaces will be shown.
+..But all surfaces are used in the calculations.
+==================================
+Surface=BLOCK TESTBLOCK STOREY 0 WALL 0001 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=18
+...Surface=BLOCK TESTBLOCK STOREY 0 WALL 0002
+...Surface=EASTWIN_F1_1
+...Surface=EASTWIN_F1_2
+...Surface=EASTWIN_F1_3
+...Surface=EASTWIN_F1_4
+...Surface=EASTWIN_F1_5
+...Surface=BLOCK TESTBLOCK STOREY 0 WALL 0003
+...Surface=NORTHWIN_F1_1
+...Surface=NORTHWIN_F1_2
+...Surface=NORTHWIN_F1_3
+Number of receiving sub surfaces=7
+....Surface=SOUTHWIN_F1_1
+....Surface=SOUTHWIN_F1_2
+....Surface=SOUTHWIN_F1_3
+....Surface=SOUTHWIN_F1_4
+....Surface=SOUTHWIN_F1_5
+....Surface=SOUTHWIN_F1_6
+....Surface=SOUTHWIN_F1_7
+==================================
+Surface=SOUTHWIN_F1_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F1_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F1_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F1_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F1_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F1_6 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F1_7 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 0 WALL 0002 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=20
+...Surface=BLOCK TESTBLOCK STOREY 0 WALL 0001
+...Surface=SOUTHWIN_F1_1
+...Surface=SOUTHWIN_F1_2
+...Surface=SOUTHWIN_F1_3
+...Surface=SOUTHWIN_F1_4
+...Surface=SOUTHWIN_F1_5
+...Surface=SOUTHWIN_F1_6
+...Surface=SOUTHWIN_F1_7
+...Surface=BLOCK TESTBLOCK STOREY 0 WALL 0003
+...Surface=NORTHWIN_F1_1
+Number of receiving sub surfaces=5
+....Surface=EASTWIN_F1_1
+....Surface=EASTWIN_F1_2
+....Surface=EASTWIN_F1_3
+....Surface=EASTWIN_F1_4
+....Surface=EASTWIN_F1_5
+==================================
+Surface=EASTWIN_F1_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F1_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F1_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F1_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F1_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 0 WALL 0003 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=19
+...Surface=BLOCK TESTBLOCK STOREY 0 WALL 0001
+...Surface=SOUTHWIN_F1_1
+...Surface=SOUTHWIN_F1_2
+...Surface=SOUTHWIN_F1_3
+...Surface=SOUTHWIN_F1_4
+...Surface=SOUTHWIN_F1_5
+...Surface=SOUTHWIN_F1_6
+...Surface=SOUTHWIN_F1_7
+...Surface=BLOCK TESTBLOCK STOREY 0 WALL 0002
+...Surface=EASTWIN_F1_1
+Number of receiving sub surfaces=6
+....Surface=NORTHWIN_F1_1
+....Surface=NORTHWIN_F1_2
+....Surface=NORTHWIN_F1_3
+....Surface=NORTHWIN_F1_4
+....Surface=NORTHWIN_F1_5
+....Surface=NORTHWIN_F1_6
+==================================
+Surface=NORTHWIN_F1_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F1_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F1_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F1_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F1_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F1_6 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 0 WALL 0004 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=23
+...Surface=BLOCK TESTBLOCK STOREY 0 WALL 0001
+...Surface=SOUTHWIN_F1_1
+...Surface=SOUTHWIN_F1_2
+...Surface=SOUTHWIN_F1_3
+...Surface=SOUTHWIN_F1_4
+...Surface=SOUTHWIN_F1_5
+...Surface=SOUTHWIN_F1_6
+...Surface=SOUTHWIN_F1_7
+...Surface=BLOCK TESTBLOCK STOREY 0 WALL 0002
+...Surface=EASTWIN_F1_1
+Number of receiving sub surfaces=2
+....Surface=WESTWIN_F1_1
+....Surface=WESTWIN_F1_2
+==================================
+Surface=WESTWIN_F1_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=WESTWIN_F1_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 0 FLOOR 0001 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 0 CEILING 0001_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 1 WALL 0001 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=18
+...Surface=BLOCK TESTBLOCK STOREY 1 WALL 0002
+...Surface=EASTWIN_F2_1
+...Surface=EASTWIN_F2_2
+...Surface=EASTWIN_F2_3
+...Surface=EASTWIN_F2_4
+...Surface=EASTWIN_F2_5
+...Surface=BLOCK TESTBLOCK STOREY 1 WALL 0003
+...Surface=NORTHWIN_F2_1
+...Surface=NORTHWIN_F2_2
+...Surface=NORTHWIN_F2_3
+Number of receiving sub surfaces=7
+....Surface=SOUTHWIN_F2_1
+....Surface=SOUTHWIN_F2_2
+....Surface=SOUTHWIN_F2_3
+....Surface=SOUTHWIN_F2_4
+....Surface=SOUTHWIN_F2_5
+....Surface=SOUTHWIN_F2_6
+....Surface=SOUTHWIN_F2_7
+==================================
+Surface=SOUTHWIN_F2_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F2_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F2_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F2_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F2_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F2_6 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F2_7 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 1 WALL 0002 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=20
+...Surface=BLOCK TESTBLOCK STOREY 1 WALL 0001
+...Surface=SOUTHWIN_F2_1
+...Surface=SOUTHWIN_F2_2
+...Surface=SOUTHWIN_F2_3
+...Surface=SOUTHWIN_F2_4
+...Surface=SOUTHWIN_F2_5
+...Surface=SOUTHWIN_F2_6
+...Surface=SOUTHWIN_F2_7
+...Surface=BLOCK TESTBLOCK STOREY 1 WALL 0003
+...Surface=NORTHWIN_F2_1
+Number of receiving sub surfaces=5
+....Surface=EASTWIN_F2_1
+....Surface=EASTWIN_F2_2
+....Surface=EASTWIN_F2_3
+....Surface=EASTWIN_F2_4
+....Surface=EASTWIN_F2_5
+==================================
+Surface=EASTWIN_F2_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F2_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F2_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F2_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F2_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 1 WALL 0003 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=19
+...Surface=BLOCK TESTBLOCK STOREY 1 WALL 0001
+...Surface=SOUTHWIN_F2_1
+...Surface=SOUTHWIN_F2_2
+...Surface=SOUTHWIN_F2_3
+...Surface=SOUTHWIN_F2_4
+...Surface=SOUTHWIN_F2_5
+...Surface=SOUTHWIN_F2_6
+...Surface=SOUTHWIN_F2_7
+...Surface=BLOCK TESTBLOCK STOREY 1 WALL 0002
+...Surface=EASTWIN_F2_1
+Number of receiving sub surfaces=6
+....Surface=NORTHWIN_F2_1
+....Surface=NORTHWIN_F2_2
+....Surface=NORTHWIN_F2_3
+....Surface=NORTHWIN_F2_4
+....Surface=NORTHWIN_F2_5
+....Surface=NORTHWIN_F2_6
+==================================
+Surface=NORTHWIN_F2_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F2_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F2_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F2_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F2_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F2_6 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 1 WALL 0004 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=23
+...Surface=BLOCK TESTBLOCK STOREY 1 WALL 0001
+...Surface=SOUTHWIN_F2_1
+...Surface=SOUTHWIN_F2_2
+...Surface=SOUTHWIN_F2_3
+...Surface=SOUTHWIN_F2_4
+...Surface=SOUTHWIN_F2_5
+...Surface=SOUTHWIN_F2_6
+...Surface=SOUTHWIN_F2_7
+...Surface=BLOCK TESTBLOCK STOREY 1 WALL 0002
+...Surface=EASTWIN_F2_1
+Number of receiving sub surfaces=2
+....Surface=WESTWIN_F2_1
+....Surface=WESTWIN_F2_2
+==================================
+Surface=WESTWIN_F2_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=WESTWIN_F2_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 1 FLOOR 0001_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 1 CEILING 0001_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 2 WALL 0001 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=18
+...Surface=BLOCK TESTBLOCK STOREY 2 WALL 0002
+...Surface=EASTWIN_F3_1
+...Surface=EASTWIN_F3_2
+...Surface=EASTWIN_F3_3
+...Surface=EASTWIN_F3_4
+...Surface=EASTWIN_F3_5
+...Surface=BLOCK TESTBLOCK STOREY 2 WALL 0003
+...Surface=NORTHWIN_F3_1
+...Surface=NORTHWIN_F3_2
+...Surface=NORTHWIN_F3_3
+Number of receiving sub surfaces=7
+....Surface=SOUTHWIN_F3_1
+....Surface=SOUTHWIN_F3_2
+....Surface=SOUTHWIN_F3_3
+....Surface=SOUTHWIN_F3_4
+....Surface=SOUTHWIN_F3_5
+....Surface=SOUTHWIN_F3_6
+....Surface=SOUTHWIN_F3_7
+==================================
+Surface=SOUTHWIN_F3_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F3_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F3_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F3_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F3_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F3_6 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=SOUTHWIN_F3_7 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 2 WALL 0002 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=20
+...Surface=BLOCK TESTBLOCK STOREY 2 WALL 0001
+...Surface=SOUTHWIN_F3_1
+...Surface=SOUTHWIN_F3_2
+...Surface=SOUTHWIN_F3_3
+...Surface=SOUTHWIN_F3_4
+...Surface=SOUTHWIN_F3_5
+...Surface=SOUTHWIN_F3_6
+...Surface=SOUTHWIN_F3_7
+...Surface=BLOCK TESTBLOCK STOREY 2 WALL 0003
+...Surface=NORTHWIN_F3_1
+Number of receiving sub surfaces=5
+....Surface=EASTWIN_F3_1
+....Surface=EASTWIN_F3_2
+....Surface=EASTWIN_F3_3
+....Surface=EASTWIN_F3_4
+....Surface=EASTWIN_F3_5
+==================================
+Surface=EASTWIN_F3_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F3_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F3_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F3_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=EASTWIN_F3_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 2 WALL 0003 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=19
+...Surface=BLOCK TESTBLOCK STOREY 2 WALL 0001
+...Surface=SOUTHWIN_F3_1
+...Surface=SOUTHWIN_F3_2
+...Surface=SOUTHWIN_F3_3
+...Surface=SOUTHWIN_F3_4
+...Surface=SOUTHWIN_F3_5
+...Surface=SOUTHWIN_F3_6
+...Surface=SOUTHWIN_F3_7
+...Surface=BLOCK TESTBLOCK STOREY 2 WALL 0002
+...Surface=EASTWIN_F3_1
+Number of receiving sub surfaces=6
+....Surface=NORTHWIN_F3_1
+....Surface=NORTHWIN_F3_2
+....Surface=NORTHWIN_F3_3
+....Surface=NORTHWIN_F3_4
+....Surface=NORTHWIN_F3_5
+....Surface=NORTHWIN_F3_6
+==================================
+Surface=NORTHWIN_F3_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F3_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F3_3 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F3_4 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F3_5 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=NORTHWIN_F3_6 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 2 WALL 0004 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=23
+...Surface=BLOCK TESTBLOCK STOREY 2 WALL 0001
+...Surface=SOUTHWIN_F3_1
+...Surface=SOUTHWIN_F3_2
+...Surface=SOUTHWIN_F3_3
+...Surface=SOUTHWIN_F3_4
+...Surface=SOUTHWIN_F3_5
+...Surface=SOUTHWIN_F3_6
+...Surface=SOUTHWIN_F3_7
+...Surface=BLOCK TESTBLOCK STOREY 2 WALL 0002
+...Surface=EASTWIN_F3_1
+Number of receiving sub surfaces=2
+....Surface=WESTWIN_F3_1
+....Surface=WESTWIN_F3_2
+==================================
+Surface=WESTWIN_F3_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=WESTWIN_F3_2 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 2 FLOOR 0001_1 is not used as Receiving Surface in calculations.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0
+==================================
+Surface=BLOCK TESTBLOCK STOREY 2 ROOF 0001 is used as Receiving Surface in calculations and is convex.
+Number of general casting surfaces=0
+Number of back surfaces=0
+Number of receiving sub surfaces=0

@@ -1,0 +1,476 @@
+
+ Meters for 16,BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK BALCONY_F1 STOREY 0 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK BALCONY_F1 STOREY 0 [J]
+
+ Meters for 77,BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK BALCONY_F1 STOREY 0 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK BALCONY_F1 STOREY 0 [J]
+
+ Meters for 102,BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK ROOM_3_F1 STOREY 0 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK ROOM_3_F1 STOREY 0 [J]
+
+ Meters for 127,BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK ROOM_3_F1 STOREY 0 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK ROOM_3_F1 STOREY 0 [J]
+
+ Meters for 140,BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK LIVING_1_F1 STOREY 0 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK LIVING_1_F1 STOREY 0 [J]
+
+ Meters for 165,BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK LIVING_1_F1 STOREY 0 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK LIVING_1_F1 STOREY 0 [J]
+
+ Meters for 178,BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK ROOM_1_F1 STOREY 0 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK ROOM_1_F1 STOREY 0 [J]
+
+ Meters for 203,BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK ROOM_1_F1 STOREY 0 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK ROOM_1_F1 STOREY 0 [J]
+
+ Meters for 216,BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK ROOM_2_F1 STOREY 0 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK ROOM_2_F1 STOREY 0 [J]
+
+ Meters for 241,BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK ROOM_2_F1 STOREY 0 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK ROOM_2_F1 STOREY 0 [J]
+
+ Meters for 254,BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK STORAGE_F1 STOREY 0 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK STORAGE_F1 STOREY 0 [J]
+
+ Meters for 279,BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK STORAGE_F1 STOREY 0 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK STORAGE_F1 STOREY 0 [J]
+
+ Meters for 292,BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK LIVING_2_F1 STOREY 0 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK LIVING_2_F1 STOREY 0 [J]
+
+ Meters for 317,BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK LIVING_2_F1 STOREY 0 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK LIVING_2_F1 STOREY 0 [J]
+
+ Meters for 330,BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK BATHROOM_F1 STOREY 0 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK BATHROOM_F1 STOREY 0 [J]
+
+ Meters for 355,BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK BATHROOM_F1 STOREY 0 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK BATHROOM_F1 STOREY 0 [J]
+
+ Meters for 369,RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 394,RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 431,RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 444,RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy [J]
+  OnMeter=PlantLoopCoolingDemand:Facility [J]
+  OnMeter=PlantLoopCoolingDemand:HVAC [J]
+  OnMeter=CoolingCoils:PlantLoopCoolingDemand [J]
+
+ Meters for 481,RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 482,RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 483,RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 484,RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy [J]
+  OnMeter=PlantLoopCoolingDemand:Facility [J]
+  OnMeter=PlantLoopCoolingDemand:HVAC [J]
+  OnMeter=CoolingCoils:PlantLoopCoolingDemand [J]
+
+ Meters for 485,RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 486,RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 487,RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 488,RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy [J]
+  OnMeter=PlantLoopCoolingDemand:Facility [J]
+  OnMeter=PlantLoopCoolingDemand:HVAC [J]
+  OnMeter=CoolingCoils:PlantLoopCoolingDemand [J]
+
+ Meters for 489,RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 490,RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 491,RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 492,RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy [J]
+  OnMeter=PlantLoopCoolingDemand:Facility [J]
+  OnMeter=PlantLoopCoolingDemand:HVAC [J]
+  OnMeter=CoolingCoils:PlantLoopCoolingDemand [J]
+
+ Meters for 493,RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=HeatingCoils:EnergyTransfer [J]
+
+ Meters for 494,RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy [J]
+  OnMeter=PlantLoopHeatingDemand:Facility [J]
+  OnMeter=PlantLoopHeatingDemand:HVAC [J]
+  OnMeter=HeatingCoils:PlantLoopHeatingDemand [J]
+
+ Meters for 495,RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:HVAC [J]
+  OnMeter=CoolingCoils:EnergyTransfer [J]
+
+ Meters for 496,RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy [J]
+  OnMeter=PlantLoopCoolingDemand:Facility [J]
+  OnMeter=PlantLoopCoolingDemand:HVAC [J]
+  OnMeter=CoolingCoils:PlantLoopCoolingDemand [J]
+
+ Meters for 497,PURCHASED HEATING:District Heating Hot Water Energy [J]
+  OnMeter=DistrictHeating:Facility [J]
+  OnMeter=DistrictHeating:Plant [J]
+  OnMeter=Heating:DistrictHeating [J]
+
+ Meters for 534,HW CIRC PUMP:Pump Electric Energy [J]
+  OnMeter=Electricity:Facility [J]
+  OnMeter=Electricity:Plant [J]
+  OnMeter=Pumps:Electricity [J]
+
+ Meters for 571,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 596,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 597,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK BALCONY_F1 STOREY 0 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK BALCONY_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK BALCONY_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK BALCONY_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK ROOM_3_F1 STOREY 0 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK ROOM_3_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK ROOM_3_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK ROOM_3_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK LIVING_1_F1 STOREY 0 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK LIVING_1_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK LIVING_1_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK LIVING_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK ROOM_1_F1 STOREY 0 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK ROOM_1_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK ROOM_1_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK ROOM_1_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK ROOM_2_F1 STOREY 0 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK ROOM_2_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK ROOM_2_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK ROOM_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK STORAGE_F1 STOREY 0 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK STORAGE_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK STORAGE_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK STORAGE_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK LIVING_2_F1 STOREY 0 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK LIVING_2_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK LIVING_2_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK LIVING_2_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK BATHROOM_F1 STOREY 0 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK BATHROOM_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK BATHROOM_F1 STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK BATHROOM_F1 STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:HVAC [J], ResourceType=EnergyTransfer, Group=HVAC, contents are:
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+
+ For Meter=HeatingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=HeatingCoils, contents are:
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Heating Energy
+
+ For Meter=PlantLoopHeatingDemand:Facility [J], ResourceType=PlantLoopHeatingDemand, contents are:
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+
+ For Meter=PlantLoopHeatingDemand:HVAC [J], ResourceType=PlantLoopHeatingDemand, Group=HVAC, contents are:
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+
+ For Meter=HeatingCoils:PlantLoopHeatingDemand [J], ResourceType=PlantLoopHeatingDemand, EndUse=HeatingCoils, contents are:
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Heating Fluid Energy
+
+ For Meter=CoolingCoils:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=CoolingCoils, contents are:
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Cooling Energy
+
+ For Meter=PlantLoopCoolingDemand:Facility [J], ResourceType=PlantLoopCoolingDemand, contents are:
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+
+ For Meter=PlantLoopCoolingDemand:HVAC [J], ResourceType=PlantLoopCoolingDemand, Group=HVAC, contents are:
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+
+ For Meter=CoolingCoils:PlantLoopCoolingDemand [J], ResourceType=PlantLoopCoolingDemand, EndUse=CoolingCoils, contents are:
+  RADIANT FLOOR - BLOCK ROOM_1_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_2_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK ROOM_3_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_1_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+  RADIANT FLOOR - BLOCK LIVING_2_F1 STOREY 0:Zone Radiant HVAC Cooling Fluid Energy
+
+ For Meter=DistrictHeating:Facility [J], ResourceType=DistrictHeating, contents are:
+  PURCHASED HEATING:District Heating Hot Water Energy
+
+ For Meter=DistrictHeating:Plant [J], ResourceType=DistrictHeating, Group=Plant, contents are:
+  PURCHASED HEATING:District Heating Hot Water Energy
+
+ For Meter=Heating:DistrictHeating [J], ResourceType=DistrictHeating, EndUse=Heating, contents are:
+  PURCHASED HEATING:District Heating Hot Water Energy
+
+ For Meter=Electricity:Facility [J], ResourceType=Electricity, contents are:
+  HW CIRC PUMP:Pump Electric Energy
+
+ For Meter=Electricity:Plant [J], ResourceType=Electricity, Group=Plant, contents are:
+  HW CIRC PUMP:Pump Electric Energy
+
+ For Meter=Pumps:Electricity [J], ResourceType=Electricity, EndUse=Pumps, contents are:
+  HW CIRC PUMP:Pump Electric Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass

@@ -1,0 +1,120 @@
+
+ Meters for 10,BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 0 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 0 [J]
+
+ Meters for 71,BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 0 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 0 [J]
+
+ Meters for 96,BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 1 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 1 [J]
+
+ Meters for 121,BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 1 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 1 [J]
+
+ Meters for 134,BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Heating Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 2 [J]
+  OnMeter=Heating:EnergyTransfer [J]
+  OnMeter=Heating:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 2 [J]
+
+ Meters for 159,BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Cooling Energy [J]
+  OnMeter=EnergyTransfer:Facility [J]
+  OnMeter=EnergyTransfer:Building [J]
+  OnMeter=EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 2 [J]
+  OnMeter=Cooling:EnergyTransfer [J]
+  OnMeter=Cooling:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 2 [J]
+
+ Meters for 172,Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 197,Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ Meters for 198,Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass [kg]
+  OnMeter=Carbon Equivalent:Facility [kg]
+  OnMeter=CarbonEquivalentEmissions:Carbon Equivalent [kg]
+
+ For Meter=EnergyTransfer:Facility [J], ResourceType=EnergyTransfer, contents are:
+  BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Cooling Energy
+  BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Building [J], ResourceType=EnergyTransfer, Group=Building, contents are:
+  BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Cooling Energy
+  BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 0 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Heating, contents are:
+  BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Heating Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer [J], ResourceType=EnergyTransfer, EndUse=Cooling, contents are:
+  BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Cooling Energy
+  BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Cooling Energy
+  BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 0 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK TESTBLOCK STOREY 0:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 1 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 1 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 1 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK TESTBLOCK STOREY 1:Zone Air System Sensible Cooling Energy
+
+ For Meter=EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 2 [J], ResourceType=EnergyTransfer, Group=Zone, contents are:
+  BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Heating Energy
+  BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Heating:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 2 [J], ResourceType=EnergyTransfer, EndUse=Heating, Group=Zone, contents are:
+  BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Heating Energy
+
+ For Meter=Cooling:EnergyTransfer:Zone:BLOCK TESTBLOCK STOREY 2 [J], ResourceType=EnergyTransfer, EndUse=Cooling, Group=Zone, contents are:
+  BLOCK TESTBLOCK STOREY 2:Zone Air System Sensible Cooling Energy
+
+ For Meter=Carbon Equivalent:Facility [kg], ResourceType=Carbon Equivalent, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
+
+ For Meter=CarbonEquivalentEmissions:Carbon Equivalent [kg], ResourceType=Carbon Equivalent, EndUse=CarbonEquivalentEmissions, contents are:
+  Site:Environmental Impact Total N2O Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CH4 Emissions Carbon Equivalent Mass
+  Site:Environmental Impact Total CO2 Emissions Carbon Equivalent Mass
