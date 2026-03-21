@@ -55,6 +55,8 @@ AI-Agent-assisted building energy consumption calibration:
   <img src="docs/Fig6.svg" width="700">
 </p>
 
+Live demo of the web version:
+
 <p align="center">
   <img src="docs/demo.gif" width="700">
 </p>
