@@ -72,12 +72,12 @@ Live demo of the web version.
 
 Start:
 <p align="center">
-  <img src="docs/demo.gif" width="700">
+  <img src="docs/demo_1_.gif" width="700">
 </p>
 
 Final:
 <p align="center">
-  <img src="docs/demo2.gif" width="700">
+  <img src="docs/demo_2_.gif" width="700">
 </p>
 
 ## ⚠️ Project Status
